@@ -1,0 +1,24 @@
+.Container {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.InputForm {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid blue;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.PhoneList {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+
+.PhoneList_item {
+  margin-left: 10px;
+}
